@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 300 200">
+  <rect width="300" height="200" fill="#f5f5f7"/>
+  <rect x="50" y="70" width="60" height="60" rx="5" ry="5" fill="#ffffff" stroke="#0a2342" stroke-width="2"/>
+  <rect x="120" y="70" width="60" height="60" rx="5" ry="5" fill="#ffffff" stroke="#0a2342" stroke-width="2"/>
+  <rect x="190" y="70" width="60" height="60" rx="5" ry="5" fill="#ffffff" stroke="#0a2342" stroke-width="2"/>
+  <circle cx="80" cy="85" r="10" fill="#f9c846"/>
+  <circle cx="150" cy="85" r="10" fill="#f9c846"/>
+  <circle cx="220" cy="85" r="10" fill="#f9c846"/>
+  <text x="150" y="180" font-family="Arial" font-size="16" fill="#0a2342" text-anchor="middle">Alert Fatigue</text>
+</svg>

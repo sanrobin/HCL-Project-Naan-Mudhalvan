@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 300 200">
+  <rect width="300" height="200" fill="#f5f5f7"/>
+  <circle cx="150" cy="100" r="50" fill="#ffffff" stroke="#0a2342" stroke-width="2"/>
+  <path d="M130,80 C140,70 160,70 170,80 C180,90 180,110 170,120 C160,130 140,130 130,120 C120,110 120,90 130,80" fill="#4ce0b3" opacity="0.5"/>
+  <circle cx="140" cy="90" r="5" fill="#0a2342"/>
+  <circle cx="160" cy="90" r="5" fill="#0a2342"/>
+  <path d="M135,110 C140,115 160,115 165,110" stroke="#0a2342" stroke-width="2" fill="none"/>
+  <text x="150" y="180" font-family="Arial" font-size="16" fill="#0a2342" text-anchor="middle">AI & Machine Learning</text>
+</svg>
